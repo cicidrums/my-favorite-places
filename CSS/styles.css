@@ -1,0 +1,35 @@
+body {
+  background-color: #E9D4C5;
+  color: #456B90;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  padding: 0px;
+  line-height: 25px;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.Cici {
+  color: #454690;
+
+}
+
+.Bill {
+  color: #608557;
+}
+
+div {
+  width: 700px;
+  display: block;
+  margin: 0 auto;
+}
